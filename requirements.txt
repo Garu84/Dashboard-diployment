@@ -1,0 +1,13 @@
+"""
+Columns
+years: Academic year in which the data was recorded
+term: Academic semester or term (Spring or Fall
+aplications: Total number of student applications received by the university
+admitted: Number of students accepted by the university
+enrolled: Number of students who officially enrolled after being admitted
+retentin rate: Percentage of students who continued their studies at the university.
+student satisfaction: Percentage representing student satisfaction levels based on surveys or evaluations
+Engineering Enrolled: Number of students enrolled in Engineering programs
+Business Enrolled: Number of students enrolled in Business programs
+Arts Enrolled: Number of students enrolled in Arts programs
+Science Enrolled: Number of students enrolled in Science programs
