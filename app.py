@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "authorship_tag": "ABX9TyPJEnpq8LEclu2FLuR1Q8EA",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -35,7 +35,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "0U3G3mkCM7or",
         "outputId": "4f65b878-4236-4b8c-f4f6-ab9bf5d71eb7"
       },
@@ -108,7 +108,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "yIuAb65SL5_j",
         "outputId": "7344fc0c-8c3e-4ba3-cb3d-78625470fb5a"
       },
